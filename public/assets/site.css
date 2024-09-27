@@ -1,0 +1,51 @@
+body {
+    background-color: #FFD580; 
+}
+.navbar {
+    background-color: #FFBF00;
+}
+.nav-link {
+    color: #0047AB;
+    font-size: 18px;
+}
+
+.books {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 60px; 
+    margin-left: 20px;
+}
+
+.grid-container {
+    display: flex;
+    max-width: 800px; 
+    width: 100%;
+    box-sizing: border-box;
+    margin-bottom: 20px; 
+}
+
+.grid-item {
+    flex: 1;
+    padding: 20px;
+    box-sizing: border-box;
+}
+
+#bookImage {
+    max-width: 100%;
+    height: auto;
+    margin-right: 20px;
+}
+
+.bookImg {
+    margin: 10px 20px;
+}
+
+.textArea {
+    display: flex;
+    align-items: center;
+}
+
+.container {
+    margin: 20px 0;
+}

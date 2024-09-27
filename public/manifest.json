@@ -1,0 +1,23 @@
+{
+    "name": "Web2-lab5",
+    "short_name": "Bookshelf",
+    "description": "PWA aplikacija za 5.lab iz kolegija web2",
+    "display": "fullscreen",
+    "theme_color": "red",
+    "background_color": "#FFD580",
+    "start_url": "/index.html",
+    "scope": ".",
+    "orientation": "portrait-primary",
+    "dir": "ltr",
+    "lang": "en-US",
+    "icons": [
+        {
+            "src": "/assets/img/bookshelf_small.jpg",
+            "type": "image/jpg", "sizes": "144x144"
+        }, 
+        {
+            "src": "/assets/img/bookshelf_small.png",
+            "type": "image/png", "sizes": "144x144"
+        }
+    ]
+}
